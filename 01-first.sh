@@ -1,1 +1,3 @@
-ls - ltr
+ls
+ls -ltr
+find.
